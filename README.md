@@ -1,1 +1,1 @@
-# maximumSpeed
+# algorithm that receives the speed of a car and if it exceeds the desired limit it informs how many points on the driver's license the driver receives, if it receives more than 12 points the license is suspended
